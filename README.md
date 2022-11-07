@@ -1,4 +1,4 @@
-# Live ==> [Product Preview](/).
+# Live ==> [Product Preview](https://splendorous-truffle-b25a10.netlify.app/)
 
 
 # todo list app
